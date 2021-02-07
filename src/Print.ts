@@ -1,5 +1,5 @@
 export class Print {
-  public static log(message: string): void {
+  public static logMessage(message: string): void {
     console.log(message);
   }
 }
